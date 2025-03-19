@@ -1,5 +1,9 @@
 streamlit
 folium
-geopy
 streamlit-folium
+geopy
 pandas
+requests
+geopandas
+shapely
+pyproj
