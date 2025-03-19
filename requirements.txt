@@ -2,8 +2,3 @@ streamlit
 folium
 streamlit-folium
 geopy
-pandas
-requests
-geopandas
-shapely
-pyproj
